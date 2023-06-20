@@ -1,3 +1,3 @@
 # Potatoes
 
-![Potatoes](licenced-image.jpg)
+![Potatoes](/licenced-image.jpg)
